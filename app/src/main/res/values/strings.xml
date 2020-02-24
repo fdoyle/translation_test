@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Translation Test Project</string>
+    <string name="string1">This is a string that needs to be translated 1</string>
+    <string name="string2">This is a string that needs to be translated 2</string>
+    <string name="string3">This is a string that needs to be translated 3</string>
+    <string name="string4">This is a string that needs to be translated 4</string>
+    <string name="string5">This is a string that needs to be translated 5</string>
+    <string name="string6">This is a string that needs to be translated 6</string>
+</resources>
